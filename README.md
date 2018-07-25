@@ -1,2 +1,2 @@
-# EmptyAndridApp
-Empt Android App
+# EmptyAndroidApp
+Empty Android App
